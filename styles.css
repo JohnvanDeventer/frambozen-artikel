@@ -1,0 +1,98 @@
+
+@import url('https://fonts.googleapis.com/css2? familie = Poppins:ital,wght@0,500;1,300 & display=swap');
+
+
+
+
+
+
+
+body{background-color: 	hsl(280, 13%, 87%);
+    font-family: 'Poppins',sans-serif, Arial, sans-serif;
+    color: 	hsl(223, 10%, 36%);margin-inline: auto;
+}
+.letter{color:hsl(281, 26%, 48%);
+
+}
+
+
+h1 {font-weight: 600 ;
+    text-align: center;text-decoration: underline; }
+
+
+ h2 {
+    font-weight: 500;
+    text-align: center;
+     letter-spacing: 20px;
+    text-transform: uppercase;
+    margin: left: 10px; right: 80px;
+}
+
+
+
+
+
+
+
+
+
+#introduction {
+    font-weight: 600;
+}
+
+/*https://www.w3schools.com/colors/colors_converter.asp*/
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+button{background-color:#865B9A;color: #fff}
+button:link {
+    color: #00ff00;
+}
+
+button:visited {
+    color: #FF00FF;
+}
+
+button:hover {
+    color: #00CCFF;
+}
+
+button:active {
+    color: #FF0000;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
