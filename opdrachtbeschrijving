@@ -1,0 +1,9 @@
+Opdrachtbeschrijving
+Zorg ervoor dat jouw pagina er precies zo uit komt te zien als de pagina in het voorbeeld. Je mag niets veranderen in de aangeleverde HTML, behalve het toevoegen van class of id-attributen. Let hierbij op de volgende dingen:
+
+Er is gebruik gemaakt van de kleuren #535865 (tekstkleur), #865B9A (contrastkleur) en  #DFD9E2(achtergrondkleur);
+Het gebruikte lettertype is het Google Font 'Poppins' in de font-weights 300 en 500. Zorg dat je één of twee fallback-fonts instelt van dezelfde categorie;
+Geef de button een andere kleur wanneer de gebruiker er met de muis overheen beweegt;
+Bonus: zet de HEX-kleuren om naar HSL-kleuren!
+Psssst: ben je benieuwd hoe je vierkantjes maakt van bulletins? Bekijk dan dit artikel op MDN Web Docs eens.
+
